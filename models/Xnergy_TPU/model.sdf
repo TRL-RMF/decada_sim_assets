@@ -39,7 +39,7 @@
    
       <visual name="visual">
         <cast_shadows>false</cast_shadows>
-	<pose frame=''> 0.0 0.0 0.50 1.5708 0 0.0</pose>
+	<pose frame=''> 0.0 0.0 0.55 1.5708 0 0.0</pose>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
